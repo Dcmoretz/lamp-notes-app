@@ -1,0 +1,23 @@
+lamp-notes-app/
+│
+├── api/
+│   ├── db.php
+│   ├── create.php
+│   ├── read.php
+│   ├── update.php
+│   └── delete.php
+│
+├── public/
+│   ├── index.php
+│   ├── create.php
+│   ├── edit.php
+│   ├── delete.php
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── main.js
+│
+├── sql/
+│   └── schema.sql
+│
+└── README.md
